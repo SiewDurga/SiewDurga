@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SiewDurga
 - 👀 I’m interested in Calibration Laboratory Management Systems
 - 🌱 I’m currently learning Python and Django
-- 💞️ I’m looking to collaborate on Calibration Laboartory management Systems
+- 💞️ I’m looking to collaborate on Calibration Laboratory management Systems
 - 📫 How to reach me Siew.Durga@gmail.com
 
 <!---
